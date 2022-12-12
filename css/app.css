@@ -1,0 +1,23 @@
+#myFooter {
+  background-color: yellow;
+
+}
+
+ body
+ 
+ {
+	 background-color: white;
+ }
+ 
+ nav
+ {
+	 background-color: white;
+	 
+ }
+ 
+ .nav * 
+ {
+	  display: inline;
+ }
+ 
+ 
